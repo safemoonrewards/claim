@@ -1,0 +1,10 @@
+.HintBlock {
+    margin-top: 0px;
+    background-color: rgb(255, 244, 217);
+    background-image: url(seru.svg);
+    background-repeat: no-repeat;
+    background-position: 16px 16px;
+    padding: 16px 16px 16px 46px;
+    border-radius: 5px;
+    margin-bottom: 24px;
+}
